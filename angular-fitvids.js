@@ -3,7 +3,7 @@
  * @name fitVids.directive:fitVids
  * @restrict A
  *
- * @version  0.1.0
+ * @version  0.1.1
  *
  * @description
  * Angular directive port of FitVids (http://fitvidsjs.com/).
